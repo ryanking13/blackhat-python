@@ -10,5 +10,5 @@
 - [TCP Server](./Chap2/tcp-server.py)
 - [Netcat](./Chap2/netcat.py)
 - [TCP Proxy](./Chap2/tcp-proxy.py)
-- [SSH Client](./Chap2/bh-sshclient.py)
+- [SSH Client](./Chap2/bh-sshcmd.py)
 - [SSH Server](./Chap2/bh-sshserver.py)
