@@ -12,3 +12,8 @@
 - [TCP Proxy](./Chap2/tcp-proxy.py)
 - [SSH Client](./Chap2/bh-sshcmd.py)
 - [SSH Server](./Chap2/bh-sshserver.py)
+
+## Chapter 3
+
+- [Packet Sniffer](./Chap3/sniffer.py)
+- [ICMP Scanner](./Chap3/scanner.py)
