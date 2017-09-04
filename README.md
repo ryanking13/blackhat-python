@@ -23,3 +23,9 @@
 - [Mail Sniffer](./Chap4/mail_sniffer.py)
 - [ARP Poisoning](./Chap4/arper.py)
 - [PCAP Processing](./Chap4/pic_carver.py)
+
+## Chapter 5
+
+- [Web Application Mapper](./Chap5/web_app_mapper.py)
+- [Web Content BruteForcer](./Chap5/content_bruter.py)
+- [Joomla BruteForcer](./Chap5/joomla_killer.py)
