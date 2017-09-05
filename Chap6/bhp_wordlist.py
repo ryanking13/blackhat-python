@@ -12,7 +12,7 @@ from HTMLParser import HTMLParser
 class TagStripper(HTMLParser):
 
     def __init__(self):
-        HTMLParser.__init__(self):
+        HTMLParser.__init__(self)
         self.page_text = []
 
     def handle_data(self, data):
@@ -105,6 +105,6 @@ class BurpExtender(IBurpExtender, IContextMenuFactory):
 
         for password in (word, word.capitalize()):
             for suffix in suffixes:
-                mangled.append("%s%s" % password, suffix))
+                mangled.append("%s%s" % (password, suffix))
 
         return mangled
