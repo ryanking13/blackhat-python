@@ -1,7 +1,10 @@
 # Blackhat Python Sample Codes
 
+![cover](https://www.nostarch.com/sites/default/files/styles/uc_product/public/BHP_cover_final.png?itok=EA2x9Tri)
+
 - python 2.7
 - Minor fix on code, comments
+- updating
 
 ## Chapter 2
 
@@ -29,3 +32,8 @@
 - [Web Application Mapper](./Chap5/web_app_mapper.py)
 - [Web Content BruteForcer](./Chap5/content_bruter.py)
 - [Joomla BruteForcer](./Chap5/joomla_killer.py)
+
+## Chapter 6
+
+- [Burp Fuzzer](./Chap6/bhp_fuzzer.py)
+- ~~Bing for Burp~~
