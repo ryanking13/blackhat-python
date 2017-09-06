@@ -37,3 +37,8 @@
 
 - [Burp Fuzzer](./Chap6/bhp_fuzzer.py)
 - ~~Bing for Burp~~
+- [Wordlist Maker](./Chap6/bhp_wordlist.py)
+
+## Chapter 7
+
+- [Trojan with Github](./Chap7/)
