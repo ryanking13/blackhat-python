@@ -42,3 +42,14 @@
 ## Chapter 7
 
 - [Trojan with Github](./Chap7/)
+
+## Chapter 8
+
+- [KeyLogger](./Chap8/keylogger.py)
+- [ScreenShoter](./Chap8/screenshotter.py)
+- [Shellcode Executer](./Chap8/shell_exec.py)
+- [Sandbox Detection](./Chap8/sandbox_detect.py)
+
+## Chapter 9
+
+- [Chapter9](./Chap9/)
